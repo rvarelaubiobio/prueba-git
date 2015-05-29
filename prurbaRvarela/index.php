@@ -13,6 +13,7 @@ and open the template in the editor.
         <?php
         // put your code here
         echo "PRUEBAS RAMAS DIFF";
+        echo "Nueva linea";
         ?>
     </body>
 </html>
