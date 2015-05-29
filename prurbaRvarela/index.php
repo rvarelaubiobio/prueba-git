@@ -7,12 +7,12 @@ and open the template in the editor.
 <html>
     <head>
         
-        <title>Prueba GIT</title>
+        <title>Prueba GIT SOLO RAMA </title>
     </head>
     <body>
         <?php
         // put your code here
-        echo "PRUEBAS RAMAS DIFF";
+        echo "PRUEBAS RAMAS DIFF SOLO RAMA ";
         ?>
     </body>
 </html>
